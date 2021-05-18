@@ -1,12 +1,13 @@
 # svi_python_initiation
-Support for the Python_initiation @svi course
-
+Support for the _scientific python initiation @svi course_
+<a name="logo"></a>
+[<img width="100px" src="./img/Logo_135_SGCNRSbis.png"></img>](#logo)
 
 ## Things to do before we begin:
 
 ### 1. Create a new conda environment on your computer
 * Open the Anaconda prompt.  
-* type `conda create -n svi_formation python=3.9`  
+* type `conda create -n svi_formation python=3.9`, (press enter to run the command)  
 * then type `conda activate svi_formation`  
   * optionnally: `conda install -c conda-forge mamba`  
 * then*: `conda install scipy numpy matplotlib scikit-image scikit-learn spyder jupyterlab ipympl`  
@@ -19,7 +20,7 @@ Click on the (only) green button on this page and select the download option of 
 ### 3. Take a look at the basic topics we planned to cover
 <a name="plan"></a>
 
-[<img width="100%" src="./img/course_plan.pdf"></img>](#plan)
+[<img width="100%" src="./img/course_plan.svg"></img>](#plan)
 
 All suggestions for additionnal topics are welcomed!  
 To submit your proposals, you can either use the Teams channel, either open an issue here (a-ha!). (the most voted ones are sure to enter the program)
